@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class MapMove : MonoBehaviour
 {
-    public float mapSpeed = 0.5f;
+    public float mapSpeed = 5f;
 
     public GameObject[] ItemSet;
 

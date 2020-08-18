@@ -41,7 +41,7 @@ public class PlayerMove : MonoBehaviour
 
         if (collision.gameObject.tag.CompareTo("Block") == 0)
         {
-            DataManager.Instance.playTimeCurrent -= 10f;
+            DataManager.Instance.playTimeCurrent -= 4f;
         }
     }
 }

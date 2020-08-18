@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class DataManager : MonoBehaviour
 {
-    public float playTimeCurrent = 5f;
-    public float playTimeMax = 5f;
+    public float playTimeCurrent = 20f;
+    public float playTimeMax = 20f;
 
     public int stage = 0;
     public int stageView = 0;
@@ -38,6 +38,6 @@ public class DataManager : MonoBehaviour
 
     // 자석에 사용할 변수
     public float margnetTimeCurrent = 0f;
-    public float margnetTimeMax = 0.5f;
-    public float itemMoveSpeed = 2f;
+    public float margnetTimeMax = 3f;
+    public float itemMoveSpeed = 3f;
 }

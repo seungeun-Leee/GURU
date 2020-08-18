@@ -43,7 +43,7 @@ public class TimeItem : MonoBehaviour
             if(collision.gameObject.tag.CompareTo("Player") == 0)
             {
                 // 시간 추가
-                DataManager.Instance.playTimeCurrent += 2f;
+                DataManager.Instance.playTimeCurrent += 10f;
                 // 시간이 max보다 커지면 max로 반환
                 if (DataManager.Instance.playTimeCurrent > DataManager.Instance.playTimeMax)
                 {
