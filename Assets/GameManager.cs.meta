@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: cb12165a96e62c9438e76e8294605384
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - LoadMap: {instanceID: 0}
+  - StageText: {instanceID: 0}
+  - BG_1: {instanceID: 0}
+  - BG_2: {instanceID: 0}
+  - TimeBar: {instanceID: 0}
+  - EndPanel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
